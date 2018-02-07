@@ -29,4 +29,4 @@ In 2008 I joined [Channel 4](http://www.channel4.com/paralympics) where I ran th
 
 After Channel 4, I joined [BT Sport](http://http://www.btsport.com) where I led the development of BT Sports’ digital products including the successful mobile app which was downloaded by 3 million customers in its first season.
 
-You can contact me [here](http://pauledwards.postach.io/page/contact) or view my [Linkedin profile](http://uk.linkedin.com/in/pauldedwards).
+You can contact me [here](/link) or view my [Linkedin profile](http://uk.linkedin.com/in/pauldedwards).
