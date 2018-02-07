@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 The news coming out of the CES show in Las Vegas last week confirms a pattern that has been emerging since the launch of the iPhone 10 years ago. Where people go to interact with services on the internet is changing and increasingly Google, Amazon, Apple and Facebook are the companies battling it out for the new World order.
 
