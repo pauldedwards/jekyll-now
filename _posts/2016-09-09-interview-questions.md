@@ -1,4 +1,7 @@
 ---
+layout: post
+title: Interview questions
+publish_date: 2016-09-09
 published: true
 ---
 I have been on the end of some awful interviews in my time. Often the recruiting manager has barely looked at my CV or more worryingly doesn’t seem to really understand the role that they are recruiting for. These are the questions I would like to be asked in an interview as I believe they touch on the aspects that I feel are truly important in enjoying and being good at one’s job.
