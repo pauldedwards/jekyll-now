@@ -1,5 +1,8 @@
 ---
-published: false
+title: what role will broadcasters play
+date: 2015-06-08
+tags: digital sport
+published: true
 ---
 These are interesting times for broadcasters. In the last few weeks the NFL has announced a deal with Yahoo! to broadcast a regular season game exclusively online for the first time and on the day of the Champions League Final in Berlin, Facebook broadcast a live show from the fan park. Facebook has provided some more statistics from the event: 
 
