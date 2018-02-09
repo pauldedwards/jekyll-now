@@ -2,7 +2,7 @@
 title: Adopting Digital transformation in sporting organisations
 date: 2016-03-04
 tags: sport digital
-published: false
+published: true
 ---
 __The challenge?__
 It is hard to overestimate the change that has affected all organisations over the last 10 years and the [prospects for change](https://medium.com/@cdixon/what-s-next-in-computing-e54b870b80cc#.ft2oqeq3l) that companies are facing. Most organisations now understand the importance of digital platforms to their business, whether it is through communications channels, sales opportunities or organisational efficiencies but while many organisations have invested over the last few years in websites or apps many are finding that they are struggling to adapt as the speed of change increases.
