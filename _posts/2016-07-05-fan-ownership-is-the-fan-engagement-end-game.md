@@ -1,4 +1,7 @@
 ---
+title: Fan ownership is the fan engagement end game
+date: 2016-07-05
+tags: sport digital
 published: false
 ---
 The football team I have supported since I was a child, Wimbledon, celebrated their victory in the League 2 play-off final at the weekend. Their story has always been one of a relatively small but engaged fan-base. It got me thinking about whether the end-state of fan engagement is ultimately fan ownership.
