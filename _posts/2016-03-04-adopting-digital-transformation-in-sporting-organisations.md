@@ -1,4 +1,7 @@
 ---
+title: Adopting Digital transformation in sporting organisations
+date: 2016-03-04
+tags: sport digital
 published: false
 ---
 __The challenge?__
