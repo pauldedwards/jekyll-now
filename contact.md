@@ -1,7 +1,7 @@
 ---
 title: Contact
 layout: page
-publish: true
+permalink: /contact/
 ---
 
 
