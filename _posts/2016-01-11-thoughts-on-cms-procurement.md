@@ -2,7 +2,7 @@
 title: Thoughts on CMS procurement
 date: 2016-01-11
 tags: cms
-published: false
+published: true
 ---
 It struck me the other day that I am rapidly approaching the 20 year mark in my career, and the one topic that has occurred more than any other is the difficulty of selecting a content management system that works for clients and customers. 
 
