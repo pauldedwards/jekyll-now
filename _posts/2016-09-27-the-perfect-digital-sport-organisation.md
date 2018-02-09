@@ -2,7 +2,7 @@
 title: The Perfect Digital Sports Organisation
 date: 2016-09-27
 tags: sport
-published: false
+published: true
 ---
 It’s been a year since I last worked with sporting organisations. In that time I’ve worked on projects at a lot of companies with different levels of digital maturity and it’s given me the opportunity to compare them to sporting orgs.
 
