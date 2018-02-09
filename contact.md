@@ -7,4 +7,4 @@ permalink: /contact/
 
 email: edwards.pauld@gmail.com
 
-Linkedin: 
+Linkedin: https://www.linkedin.com/in/pauldedwards
