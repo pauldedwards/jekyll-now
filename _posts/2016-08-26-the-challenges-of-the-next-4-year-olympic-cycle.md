@@ -1,4 +1,7 @@
 ---
+title: The challenges of the next 4 year Olympic cycle
+date: 2016-08-26
+tags: olympics digital
 published: false
 ---
 
