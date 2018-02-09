@@ -2,7 +2,7 @@
 title: The challenges of the next 4 year Olympic cycle
 date: 2016-08-26
 tags: olympics digital
-published: false
+published: true
 ---
 
 The broadcasting of sporting events is going through the most disruptive period of change in its history. For many years the industry has barely changed. The proliferation of digital platforms and social networks has created a situation that many broadcasters are finding difficult to navigate.
