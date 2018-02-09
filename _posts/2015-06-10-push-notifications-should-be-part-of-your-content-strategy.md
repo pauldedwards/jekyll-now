@@ -1,5 +1,8 @@
 ---
-published: false
+title: push notifications should be part of your content strategy
+date: 2015-06-10
+tags: digital
+published: true
 ---
 Media organisations will have a content strategy that covers what they publish on their website, social media platforms and apps. This strategy will allow them to plan and track their copy, video and other content they produce and track it's performance against targets. Few will yet have included push notifications (PNs) in this strategy but increasingly PNs will become a vital part of any media or sporting organisations content mix.
 
