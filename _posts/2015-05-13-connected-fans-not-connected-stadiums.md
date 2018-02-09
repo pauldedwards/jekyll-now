@@ -1,5 +1,8 @@
 ---
-published: false
+title: connected fans not connected stadiums
+date: 2015-05-13
+tags: digital iot
+published: true
 ---
 Whether you are the consumer looking to create a ‘smart home’ or a brand looking to increase knowledge about your customers through the data collected, there is huge excitement about the possibilities that will be gained from connecting up objects and devices. And in the world of sport, smart stadia are a very hot topic.
 
