@@ -1,5 +1,8 @@
 ---
-published: false
+title: PwCs Global entertainment and media outlook 2015–2019 report
+date: 2015-06-03
+tags: digital media
+published: true
 ---
 PwC have just released <a href="http://www.pwc.com/gx/en/global-entertainment-media-outlook/">their report</a> into the changing face of media and there are some interesting trends, especially where it focusses on the key challenges facing digital sport broadcasters.
 
