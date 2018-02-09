@@ -1,5 +1,8 @@
 ---
-published: false
+title: A Continuous Delivery approach can help your entire organisation
+date: 2017-12-11
+tags: agile
+published: true
 ---
 Many organisations are struggling to replace legacy systems. This is happening while industries are also coping with disruptive change. Business models are under pressure and new competitors are appearing.
 
