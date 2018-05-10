@@ -1,6 +1,6 @@
 ---
 title: TSB and banking transformation
-date: {}
+date: 2018-05-10
 tags: agile
 published: true
 ---
