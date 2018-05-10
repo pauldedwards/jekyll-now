@@ -4,8 +4,6 @@ date: 2018-05-10
 tags: agile
 published: true
 ---
-## TSB and banking transformation
-
 I have had experience of a public launch which didn't go to plan. I know that it isn’t a nice experience and it’s very stressful. But, the comments made to the press and on TV by the CEO of TSB are interesting and suggest why their migration went so badly wrong. They show how the organisation’s ways of working may have led to the expensive outage.
 
 I am going to look at some of his quotes in detail and then compare them to some examples of other banks which are going about their digital transformations in a more coherent way. 
