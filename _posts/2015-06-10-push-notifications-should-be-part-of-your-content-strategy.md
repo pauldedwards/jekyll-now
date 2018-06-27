@@ -1,5 +1,5 @@
 ---
-title: push notifications should be part of your content strategy
+title: Push notifications should be part of your content strategy
 date: 2015-06-10
 tags: digital
 published: true
