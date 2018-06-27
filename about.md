@@ -11,13 +11,13 @@ I specialise in the delivering large-scale digital transformation programmes for
 
 Companies I have helped improve their delivery of digital products include:
 
-*Channel 4
-*BT Sport
-*ITV
-*Amex
-*SpringerNature
-*Siemens Healthcare
-*Telegraph Media Group
+  *Channel 4
+  *BT Sport
+  *ITV
+  *Amex
+  *SpringerNature
+  *Siemens Healthcare
+  *Telegraph Media Group
 
 I am currently working as a Delivery Consultant at [Equal Experts](http://www.equalexperts.com) supporting companies in their delivery of digital products through consultancy, leading teams and coaching.
 
