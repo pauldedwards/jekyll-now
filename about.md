@@ -23,7 +23,7 @@ I am currently working as a Delivery Consultant at [Equal Experts](http://www.eq
 
 My career started at financial start-up [Complinet](https://www.crunchbase.com/organization/complinet) as employee number 3 in 1998. I led the development of many of Complinet's B2B online products including recruitment and know-your-customer platforms before leaving to join AKQA in 2006.
 
-I moved to [AKQA](http://www.akqa.com)</a> to manage the delivery of projects for clients such as Dell, Sainsbury's and ITV. I left AKQA to join the publishing house Hachette Filipacchi to provide expertise in building a digital team to consolidate the digital platforms and develop innovative products.
+I moved to [AKQA](http://www.akqa.com) to manage the delivery of projects for clients such as Dell, Sainsbury's and ITV. I left AKQA to join the publishing house Hachette Filipacchi to provide expertise in building a digital team to consolidate the digital platforms and develop innovative products.
 
 In 2008 I joined [Channel 4](http://www.channel4.com/paralympics) where I ran the successful digital strategy for the London 2012 Paralympics coverage. I was fortunate enough to be part of the team that won BAFTA and BIMA awards for digital innovation for our coverage of the event.
 
