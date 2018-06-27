@@ -27,6 +27,8 @@ I moved to leading digital agency [AKQA](http://www.akqa.com) in 2006 to manage 
 
 In 2008 I joined [Channel 4](http://www.channel4.com/paralympics) where I ran the successful digital strategy for the London 2012 Paralympics coverage. I was fortunate enough to be part of the team that won BAFTA and BIMA awards for digital innovation for our coverage of the event.
 
-After Channel 4, I moved to [BT Sport](http://http://www.btsport.com) where I led the development of BT Sports’ digital products for the launch of the broadcast channels, including the successful mobile app which was downloaded by 3 million customers in its first season. Having successfully launched BT Sport I spent some time consulting at the Telegraph Media Group and various sporting organisations before moving to Equal Experts.
+After Channel 4, I moved to [BT Sport](http://http://www.btsport.com) where I led the development of BT Sports’ digital products for the launch of the broadcast channels in 2013, including the successful mobile app which was downloaded by 3 million customers in its first season. 
+
+Having successfully launched BT Sport I spent some time consulting at the Telegraph Media Group and various sporting organisations before moving to Equal Experts.
 
 You can contact me [here](/link) or view my [Linkedin profile](http://uk.linkedin.com/in/pauldedwards).
