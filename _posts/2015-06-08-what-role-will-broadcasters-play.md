@@ -1,5 +1,5 @@
 ---
-title: what role will broadcasters play
+title: What role will broadcasters play
 date: 2015-06-08
 tags: digital sport
 published: true
