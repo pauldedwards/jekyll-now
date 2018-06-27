@@ -10,7 +10,7 @@ October 2015 / Present
 
 Helping organisations with digital and organisational transformation.
 
-*	ITV (March 2017 – Ongoing) Leading a recovery of the Airtime Sales Technology modernisation programme. The project was on course for a £1m overspend and to be delivered late but through re-engineering of the solution and the agile processes around delivery this would be brought under control.
+*	ITV (March 2017 – Ongoing) Leading a recovery of the Airtime Sales Technology modernisation programme. 
 
 *	Springer-Nature – (May 2016 – Feb 2017) Ensured the successful product delivery of multiple work-streams involved in merging MacMillan and Springer onto new digital platforms including SAP CRM and Hybris. 
 
