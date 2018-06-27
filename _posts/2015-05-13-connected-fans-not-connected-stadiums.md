@@ -1,5 +1,5 @@
 ---
-title: connected fans not connected stadiums
+title: Connected fans not connected stadiums
 date: 2015-05-13
 tags: digital iot
 published: true
