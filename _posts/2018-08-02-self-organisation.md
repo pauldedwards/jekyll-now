@@ -15,6 +15,15 @@ Leadership not willing to give up control
 Lack of trust - esp contractors, offshore
 Teams that aren't user focussed but dependent on one or two "product specialists"
 
+How to introduce it in an organisation
+
+Start at the team level
+Coaching
+  Some people not comfortable
+  Some voices too loud
+  Clear goals
+  
+
 
 
 
