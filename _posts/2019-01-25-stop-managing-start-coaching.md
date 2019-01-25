@@ -1,3 +1,7 @@
+---
+published: true
+---
+
 For a number of years I’ve been interested in building [self-organised teams] as part of my role. I believe breaking away from old hierarchical, command and control processes as a key driver of being able to develop software in an effective way. I’ve seen both methods of running teams and building teams that can problem solve and adapt to changes without the instruction from senior figures delivers much more effective outcomes. The book [“Turn the ship around”] is a great introduction to handing responsibility and control over to teams
 
 I still find that some people reject this approach providing the reasons that their teams are not capable due to lack of appropriate skills, experience or even just the character of the people in those teams. I agree it can be hard to get some people to work in this way if they have always been told what to do next and how to do it but persistence and empathetic coaching ultimately pays off.
