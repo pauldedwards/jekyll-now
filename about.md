@@ -7,7 +7,7 @@ published: true
 
 __Digital transformation for finance, media and sport organisations__
 
-I specialise in the delivering large-scale digital transformation programmes for media companies, financial organisations, broadcasters and sport organisations.
+I specialise in the delivering large-scale digital transformation programmes in the media, financial, broadcasting and sport sectors.
 
 I have helped a variety of organisations improve their delivery of digital products including:
 
@@ -21,9 +21,9 @@ I have helped a variety of organisations improve their delivery of digital produ
 
 I am currently working as a Product Delivery Consultant at [Equal Experts](http://www.equalexperts.com) where I specialise in  supporting companies through digital and organisational transformation, continuous product delivery, leading teams and agile coaching.
 
-My career started at financial technology start-up [Complinet](https://www.crunchbase.com/organization/complinet) as employee number 3 in 1998. I led the development of many of Complinet's B2B online products aimed at Compliance and Regulatory officers in financial services. 
+My career started at the financial technology start-up [Complinet](https://www.crunchbase.com/organization/complinet) as employee number 3 in 1998. I led the development of many of Complinet's B2B online products aimed at Compliance and Regulatory officers in financial services. 
 
-I moved to leading digital agency [AKQA](http://www.akqa.com) in 2006 to manage the delivery of projects for clients such as Dell, Sainsbury's and ITV. I left AKQA to join the publishing house Hachette Filipacchi to provide expertise in building a digital team to consolidate the digital platforms and develop innovative products for their suite of titles including Elle, Red and Psychologies.
+I moved to the leading digital agency [AKQA](http://www.akqa.com) in 2006 to manage the delivery of projects for clients such as Dell, Sainsbury's and ITV. I left AKQA to join the publishing house Hachette Filipacchi to provide expertise in building a digital team to consolidate the digital platforms and develop innovative products for their suite of titles including Elle, Red and Psychologies.
 
 In 2008 I joined [Channel 4](http://www.channel4.com/paralympics) where I ran the successful digital strategy for the London 2012 Paralympics coverage. I was fortunate enough to be part of the team that won BAFTA and BIMA awards for digital innovation for our coverage of the event.
 
