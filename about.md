@@ -9,7 +9,7 @@ __Digital transformation for finance, media and sport organisations__
 
 I specialise in the delivering large-scale digital transformation programmes for media companies, financial organisations, broadcasters and sport organisations.
 
-Companies I have helped improve their delivery of digital products include:
+I have helped a variety of organisations improve their delivery of digital products including:
 
   * Channel 4
   * BT Sport
