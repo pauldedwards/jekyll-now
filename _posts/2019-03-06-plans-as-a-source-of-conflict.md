@@ -1,3 +1,10 @@
+---
+title: Plans as a source of conflict
+date: 2019-03-06
+tags: agile
+published: true
+---
+
 I recently worked on a project for a client where there was a large amount of conflict between the delivery teams and the business stakeholders. When reviewing the experience it became clear to me that a lot of the conflict was accentuated by if not directly caused by the poor use of plans. 
 
 When I joined as a consultant to help them the company was more than a year overdue on a multi-million pound project that was central to the way it did business. Many of the decisions that had been made early on in the project such as the choice of vendor etc were in my experience wrong as they had left them with few options to change course or adapt. In future I’ll write about some of these decisions but this post is going to focus solely on the way the organisation used plans and the problems these caused.
