@@ -10,6 +10,12 @@ October 2015 / Present
 
 Helping organisations with digital and organisational transformation.
 
+*   Global Management Consulting firm (May 2019 - Present) - Engagement Lead across multiple workstreams at the client. Helping the organisation through digital transformation and the development of shared cloud infrastructure.
+
+*   Lloyds Pharmacy (March 2019) - Reviewing the software delivery practices and infrastructure of Echo in order to evaluate the feasibility for acquisition.
+
+*   Lloyds Pharmacy (October 2018 - Feb 2019) - Creating an online repeat prescription business. Creation of an end to end Service design, NHS Spine integration, process automation and patient experience.
+
 *	ITV (March 2017 – Ongoing) Leading a transformation of the Airtime Sales Technology modernisation programme. Brought problem
 workstreams back on track to deliver within the overall programme. Advising Head of Technology and Commercial Directors on transformation approach.
 
