@@ -11,6 +11,8 @@ October 2015 / Present
 
 Helping organisations with digital and organisational transformation.
 
+*   Global Fashion Retail (October 2019 - March 2020) - Working with a major retailer in Spain to improve their internal logistics and software development.
+
 *   Global Management Consulting firm (May 2019 - Present) - Engagement Lead across multiple workstreams at the client. Helping the organisation through digital transformation and the development of shared cloud infrastructure.
 
 *   Lloyds Pharmacy (March 2019) - Reviewing the software delivery practices and infrastructure of Echo in order to evaluate the feasibility for acquisition.
