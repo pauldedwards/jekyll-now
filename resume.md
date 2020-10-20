@@ -15,9 +15,9 @@ Helping organisations with digital and organisational transformation.
 
 *  Inditex/Zara (October 2019 - March 2020) - Working with a major retailer in Spain to improve their internal logistics and software development.
 
-*   Global Management Consulting firm (May 2019 - Present) - Engagement Lead across multiple workstreams at the client. Helping the organisation through digital transformation and the development of shared cloud infrastructure.
+*   Boston Consulting Group firm (May 2019 - Present) - Engagement Lead across multiple workstreams at the client. Helping the organisation through digital transformation and the development of shared cloud infrastructure.
 
-*   Lloyds Pharmacy (March 2019) - Reviewing the software delivery practices and infrastructure of Echo in order to evaluate the feasibility for acquisition.
+*   Lloyds Pharmacy/Echo (March 2019) - Reviewing the software delivery practices and infrastructure of Echo in order to evaluate the feasibility for acquisition.
 
 *   Lloyds Pharmacy (October 2018 - Feb 2019) - Creating an online repeat prescription business. Creation of an end to end Service design, NHS Spine integration, process automation and patient experience.
 
