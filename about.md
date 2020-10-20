@@ -34,3 +34,5 @@ After Channel 4, I moved to [BT Sport](http://http://www.btsport.com) where I le
 Having successfully launched BT Sport I spent some time consulting at the Telegraph Media Group and various sporting organisations before moving to Equal Experts.
 
 You can contact me [here](/link) or view my [Linkedin profile](http://uk.linkedin.com/in/pauldedwards).
+
+This site is built using [Jekyll](https://jekyllrb.com/) on Github Pages
