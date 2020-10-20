@@ -11,6 +11,8 @@ I specialise in the delivering large-scale digital transformation programmes in 
 
 I have helped a variety of organisations improve their delivery of digital products including:
 
+  * Pret a Manger
+  * Inditex
   * Channel 4
   * BT Sport
   * ITV
