@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-![My profile](/Paul Edwards - Profile.pdf)
+![My profile](/Paul_Edwards_Profile.pdf)
 
 __Digital transformation for finance, media and sport organisations__
 
