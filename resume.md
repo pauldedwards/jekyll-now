@@ -4,7 +4,7 @@ layout: page
 permalink: /resume/
 ---
 
-[Download a copy of my CV](/Paul Edwards CV Oct 2020.pdf)
+[Download a copy of my CV](/Paul_Edwards_CV_Oct_2020.pdf)
 
 ## Product Delivery Consultant / Equal Experts
 October 2015 / Present
