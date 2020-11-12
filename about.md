@@ -5,6 +5,8 @@ permalink: /about/
 published: true
 ---
 
+![My profile](/Paul Edwards - Profile.pdf)
+
 __Digital transformation for finance, media and sport organisations__
 
 I specialise in the delivering large-scale digital transformation programmes in the media, financial, broadcasting and sport sectors.
