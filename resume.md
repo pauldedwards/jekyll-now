@@ -6,20 +6,29 @@ permalink: /resume/
 
 [Download a copy of my CV](/Paul_Edwards_CV_Oct_2020.pdf)
 
+
+## Executive Delivery Director / MonstarLab
+March 2021 / Present
+
+* Responsible for the successful delivery of global digital projects
+
+* Building an agile digital delivery consultancy capability across UK and Europe
+
+
 ## Product Delivery Consultant / Equal Experts
-October 2015 / Present
+October 2015 / March 2021
 
 Helping organisations with digital and organisational transformation.
 
 * Pret a Manger (March 2020 - Nov 2020) - Building online transactional capability. 
 
-*  Inditex/Zara (October 2019 - March 2020) - Working with a major retailer in Spain to improve their internal logistics and software development.
+* Inditex/Zara (October 2019 - March 2020) - Working with a major retailer in Spain to improve their internal logistics and software development.
 
-*   Boston Consulting Group firm (May 2019 - Present) - Engagement Lead across multiple workstreams at the client. Helping the organisation through digital transformation and the development of shared cloud infrastructure.
+* Boston Consulting Group firm (May 2019 - Present) - Engagement Lead across multiple workstreams at the client. Helping the organisation through digital transformation and the development of shared cloud infrastructure.
 
-*   Lloyds Pharmacy/Echo (March 2019) - Reviewing the software delivery practices and infrastructure of Echo in order to evaluate the feasibility for acquisition.
+* Lloyds Pharmacy/Echo (March 2019) - Reviewing the software delivery practices and infrastructure of Echo in order to evaluate the feasibility for acquisition.
 
-*   Lloyds Pharmacy (October 2018 - Feb 2019) - Creating an online repeat prescription business. Creation of an end to end Service design, NHS Spine integration, process automation and patient experience.
+* Lloyds Pharmacy (October 2018 - Feb 2019) - Creating an online repeat prescription business. Creation of an end to end Service design, NHS Spine integration, process automation and patient experience.
 
 *	ITV (March 2017 – Ongoing) Leading a transformation of the Airtime Sales Technology modernisation programme. Brought problem
 workstreams back on track to deliver within the overall programme. Advising Head of Technology and Commercial Directors on transformation approach.
