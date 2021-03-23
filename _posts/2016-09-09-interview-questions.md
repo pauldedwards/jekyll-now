@@ -13,7 +13,7 @@ I am fortunate to have worked in an industry where the pace of change seems to i
 
 __Describe a time when your emotions or your understanding of another person’s emotions affected a decision and what was the outcome?__
 
-A few years ago I worked on a very stressful project and my mantra to myself was “drop the emotion”. I was surrounded by people who were confrontational and emotional and my active response to this was to try and ignore the emotion. Since that project I have learned some great colleagues that the best way is to use empathy to try and understand the other person and why their behaviour is the way it is.
+A few years ago I worked on a very stressful project and my mantra to myself was “drop the emotion”. I was surrounded by people who were confrontational and emotional and my active response to this was to try and ignore the emotion. Since that project I have learned from some great colleagues that the best way is to use empathy to try and understand the other person and why their behaviour is the way it is.
 
 __If you were to take this role what would you want to write in your CV in 3 years time that describes what you had achieved?__
 
@@ -23,4 +23,4 @@ __What is the most important contribution you have made to a team you were a par
 
 I may have to ask my colleagues this question...
 
-UPDATE: I came across this interesting article from [Slack](https://slackhq.com/three-unconventional-interview-questions-664cc55501e#.crxe0nhd1) which contains some other interesting interview questions
+UPDATE: I came across this article from [Slack](https://slackhq.com/three-unconventional-interview-questions-664cc55501e#.crxe0nhd1) which contains some other interesting interview questions
