@@ -14,6 +14,8 @@ March 2021 / Present
 
 * Building an agile digital delivery consultancy capability across UK and Europe
 
+* Defining Delivery standards for EMEA and setting up a Regional Agile PMO
+
 
 ## Product Delivery Consultant / Equal Experts
 October 2015 / March 2021
