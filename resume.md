@@ -16,6 +16,8 @@ March 2021 / Present
 
 * Defining Delivery standards for EMEA and setting up a Regional Agile PMO
 
+* Working with early stage start-ups, scale-ups and blue-chip businesses
+
 
 ## Product Delivery Consultant / Equal Experts
 October 2015 / March 2021
