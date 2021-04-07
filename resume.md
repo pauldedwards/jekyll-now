@@ -16,6 +16,8 @@ March 2021 / Present
 
 * Defining Delivery standards for EMEA and setting up a Regional Agile PMO
 
+* Supporting the global business growth strategy through M&A due diligence
+
 * Working with early stage start-ups, scale-ups and blue-chip businesses
 
 
