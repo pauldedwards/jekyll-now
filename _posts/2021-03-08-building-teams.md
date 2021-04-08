@@ -1,6 +1,9 @@
-
-
-
+---
+title: Building cohesive teams in sport and development
+date: 2021-03-08
+tags: agile
+published: true
+---
 
 Recently I’ve stolen a lot of ideas from agile ways of working and applied them to my role as a junior football coach. I initially approached being an unqualified and volunteer coach by doing what I do when outside of my comfort zone, I sought out as many experts in the field as I could find and read and listened to what they had to say. I found that there are surprising similarities between the principles of forming an effective software development team and getting a group of under 9s organised as a sports team.
 
