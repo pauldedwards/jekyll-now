@@ -26,7 +26,7 @@ October 2015 / March 2021
 
 Helping organisations with digital and organisational transformation.
 
-* Pret a Manger (March 2020 - Nov 2020) - Building online transactional capability. 
+* _Pret a Manger_ (March 2020 - Nov 2020) - Building online transactional capability. 
 
 * Inditex/Zara (October 2019 - March 2020) - Working with a major retailer in Spain to improve their internal logistics and software development.
 
