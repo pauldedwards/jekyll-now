@@ -1,5 +1,5 @@
 ---
-title: Building cohesive teams in sport and development
+title: Building cohesive teams in sport and software development
 date: 2021-03-08
 tags: agile
 published: true
