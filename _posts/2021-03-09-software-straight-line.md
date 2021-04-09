@@ -1,5 +1,9 @@
-
-
+---
+title: Software delivery isn't a straight line
+date: 2021-03-09
+tags: agile
+published: true
+---
 
 Delivering software products is a complex process. Companies may start with a clear objective or idea of what they want to build but the journey to get there is marked by a series of decisions, trade-offs, problems and ambiguity. Humans are very bad at dealing with this level of chaos. Companies try and impose structure through models, maps or frameworks. It’s still common to see a plan for the creation of a software product laid out in a straight line in the form of a Gantt Chart with a clear route from the start to the end of the project. The assumption being that every feature, problem, constraint, risk and solution is clearly understood and that to build the end product we simply have to write the code in the order that it’s been laid out.
 
