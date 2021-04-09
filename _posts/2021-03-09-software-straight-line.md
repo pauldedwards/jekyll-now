@@ -5,6 +5,8 @@ tags: agile
 published: true
 ---
 
+![alt text](image.jpg)
+
 Delivering software products is a complex process. Companies may start with a clear objective or idea of what they want to build but the journey to get there is marked by a series of decisions, trade-offs, problems and ambiguity. Humans are very bad at dealing with this level of chaos. Companies try and impose structure through models, maps or frameworks. It’s still common to see a plan for the creation of a software product laid out in a straight line in the form of a Gantt Chart with a clear route from the start to the end of the project. The assumption being that every feature, problem, constraint, risk and solution is clearly understood and that to build the end product we simply have to write the code in the order that it’s been laid out.
 
 The more complex the problem the greater the temptation to do more planning. It's an emotional response to a need to create a structure where there is ambiguity. Companies focus on a more and more granular analysis of problems that may be 3-6 months away. The reaction is to be surprised when the problem requires a different solution to the one that was imagined 3-6 months earlier. The reality is that the situation changes and companies need to be able to adapt. I’ve seen companies double down on their decisions even when the evidence is they need to change course. The plan had set them on a course and they were unwilling or unable to adapt. The plan now owns them.
