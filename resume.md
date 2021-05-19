@@ -10,13 +10,15 @@ permalink: /resume/
 ## Executive Delivery Director / MonstarLab
 March 2021 / Present
 
-* Responsible for the successful delivery of global digital projects
+* Responsible for the successful delivery of client programmes in the UK
+
+* Managing a team of 7 Delivery Consultants in ML offices across Europe
 
 * Building an agile digital delivery consultancy capability across UK and Europe
 
-* Defining Delivery standards for EMEA and setting up a Regional Agile PMO
+* Defining Delivery standards for EMEA and setting up a Lean Agile Delivery Framework
 
-* Supporting the global business growth strategy through M&A due diligence
+* Supporting the global business growth strategy through M&A due diligence of potential businesses
 
 * Working with early stage start-ups, scale-ups and blue-chip businesses
 
